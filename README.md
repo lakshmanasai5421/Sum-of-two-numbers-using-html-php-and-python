@@ -41,3 +41,7 @@ HTMX dynamically updates the result without a full page reload.
 │── sum.py         # Python script (computes sum of two numbers)
 
 │── style.css      # Styling (optional)
+
+
+For runing the server use this -->   C:\xampp\htdocs>C:\xampp\php\php -S localhost:8000
+
