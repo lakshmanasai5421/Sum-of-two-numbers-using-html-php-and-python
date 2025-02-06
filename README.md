@@ -43,5 +43,5 @@ HTMX dynamically updates the result without a full page reload.
 │── style.css      # Styling (optional)
 
 
-For runing the server use this -->   C:\xampp\htdocs>C:\xampp\php\php -S localhost:8000
+For runing the server use this -->   C:\xampp\php\php -S localhost:8000
 
